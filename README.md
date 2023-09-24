@@ -1,5 +1,5 @@
 # SUN_JSON
-一个简单的json库，不支持utf_8.
+一个简单的json库，支持utf_8.
 
 jsondata 为一个json对象。
 jsondata.stringfy() 负责将一个json对象转换为一个字符串。
